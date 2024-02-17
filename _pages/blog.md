@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 layout: posts
-excerpt: "My personal blog. We talk about Android, Community, Public Speaking and Travels"
+excerpt: "My personal blog. We talk about Data Science, Data Engineering and Coding."
 sitemap: true
 permalink: /blog
 author_profile: true

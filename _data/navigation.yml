@@ -2,11 +2,7 @@
 main:
   - title: "Blog"
     url: /blog
-  - title: "Talks"
-    url: /talks
   - title: "Projects"
     url: /projects
   - title: "About"
     url: /about
-  - title: Podcast
-    url: https://thebakery.dev

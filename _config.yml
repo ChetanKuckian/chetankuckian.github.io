@@ -18,17 +18,17 @@ locale                   : "en"
 title                    : "Chetan Kuckian"
 title_separator          : "-"
 name                     : "Chetan Kuckian"
-description              : "Personal website of CHetan Kuckian. We talk about Coding, Data Analysis and Machine Learning."
-url                      : "https://ncorti.com"
+description              : "Personal website of Chetan Kuckian. We talk about Coding, Data Analysis and Machine Learning."
+url                      : "https://chetankuckian.github.io"
 # baseurl                  : "/"
-repository               : "cortinico/cortinico.github.io"
+repository               : "chetankuckian/chetankuckian.github.io"
 teaser                   : "assets/images/og_default_header.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 220
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : "ncorti-com" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "ChetanKuckian-com" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
